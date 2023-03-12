@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-i added a slight shadow to the image bcuz it looks funky
+i added a slight shadow to the image and a slide in animation bcuz it looks funky
 
 ### Screenshot
 
@@ -30,6 +30,7 @@ i added a slight shadow to the image bcuz it looks funky
 
 ### Built with
 
+- CSS animation~~s~~
 - Flexbox
     - yeah thats it ig
     - also not really i used it only for centering
