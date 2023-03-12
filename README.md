@@ -32,6 +32,7 @@ i added a slight shadow to the image bcuz it looks funky
 
 - Flexbox
     - yeah thats it ig
+    - also not really i used it only for centering
 
 
 ### What I learned
