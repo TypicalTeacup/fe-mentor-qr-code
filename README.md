@@ -23,8 +23,8 @@ i added a slight shadow to the image bcuz it looks funky
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/TypicalTeacup/fe-mentor-qr-code)
+- Live Site URL: [Add live site URL here](https://typicalteacup.github.io/fe-mentor-qr-code)
 
 ## My process
 
